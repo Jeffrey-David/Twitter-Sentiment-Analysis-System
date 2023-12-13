@@ -4,6 +4,9 @@ A Twitter sentiment analysis system built using python with Naive Bayes Model.
 ## SYSTEM ARCHITECTURE
 The sentiment analysis system contains of five major parts
 
+
+![System Architecture](https://github.com/Jeffrey-David/Twitter-Sentiment-Analysis-System/assets/66271004/93578e0b-f64d-4ceb-a304-cf0a599889a4)
+
  
 ### Tweet Extraction
 The first step to implementing the sentiment analysis system is to create a Twitter Developer account and get it approved so that we can access it through the Twitter API. After we get access to a developer account, we should extract and store the tweets that correspond to the given query term. For this we can use the Tweepy  to retrieve the tweets. The below picture is the dashboard of a Twitter Developer account.
